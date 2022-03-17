@@ -3,7 +3,7 @@ Fund 8 Open Source Developer Ecosystem
 
 ## Presentation
 
-- F7:OSDE > [F8:OSDE, 1.2M](https://cardano.ideascale.com/c/campaigns/26434/about) 
+- F7:OSDE > [F8:OSDE, 1.2M](https://cardano.ideascale.com/c/idea/382213) > [F9:OSDE, 1.4M](https://cardano.ideascale.com/c/idea/401296)
 - [Challenge Presentation Slides](https://docs.google.com/presentation/d/1Q3jippH0uS5uXvtduRn6GGI_usLe10Gi3QMjfBcmAOg/edit#slide=id.g113e7636acb_0_7)
 
 ## Challenge
